@@ -61,7 +61,7 @@ def convolve2d(image, kernel):
 
 
 # Carregar e converter a imagem PNG para escala de cinza
-path = '/home/pcbrom/Dropbox/Trabalho_Estudo/Informatica/componentes/Processamento Digital de Sinais/projetos/filtragem_imagens'
+path = 'sua/pasta/no/computador'
 img_path = path + '/sunset.png'
 largura, altura, imagem = ler_imagem_png(img_path)
 
