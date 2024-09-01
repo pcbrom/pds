@@ -10,15 +10,15 @@ Fornecer ferramentas e exemplos práticos para o processamento digital de sinais
 
 ### 1. eq5_git.py
 
-Este script implementa uma equalização de quinta ordem para sinais de áudio. O script permite ajustar os ganhos de diferentes bandas de frequência, aplicando filtros adequados para modificar a resposta em frequência do sinal de entrada.
+Este script implementa uma equalização por bibliotecas para sinais de áudio. O script permite ajustar os ganhos de diferentes bandas de frequência, aplicando filtros adequados para modificar a resposta em frequência do sinal de entrada.
 
 ### 2. eq7_git.py
 
-Semelhante ao eq5_git.py, este script implementa uma equalização de sétima ordem, oferecendo maior controle sobre as bandas de frequência. É útil para aplicações onde é necessário um ajuste mais refinado do espectro de frequência.
+Semelhante ao eq5_git.py, este script implementa uma equalização manual sobre as bandas de frequência.
 
 ### 3. filtragem_imagens_v3_git.py
 
-Este script aplica técnicas de filtragem em imagens, utilizando a Transformada Discreta de Fourier (DFT). As imagens são transformadas para o domínio da frequência, onde diferentes filtros podem ser aplicados, como filtros passa-baixa, passa-alta, entre outros. Após o processamento, a imagem filtrada é revertida para o domínio espacial.
+Este script aplica técnicas de filtragem em imagens, utilizando a Transformada Discreta de Fourier (DFT) e convolução clássica. As imagens são transformadas para o domínio da frequência, onde diferentes filtros podem ser aplicados, como filtros passa-baixa, passa-alta, entre outros. Após o processamento, a imagem filtrada é revertida para o domínio espacial.
 
 ## Como Usar
 
