@@ -4,7 +4,7 @@ Este projeto consiste em uma coleção de scripts Python voltados para o process
 
 ## Objetivo do Projeto
 
-Fornecer ferramentas e exemplos práticos para o processamento digital de sinais, utilizando técnicas de filtragem e equalização. Os scripts aqui presentes são destinados a profissionais e estudantes que desejam aplicar essas técnicas em projetos de áudio e imagem.
+Fornecer ferramentas e exemplos práticos para o processamento digital de sinais, utilizando técnicas de filtragem e equalização. Os scripts aqui presentes são destinados a estudantes que desejam aplicar essas técnicas em projetos de áudio e imagem.
 
 ## Scripts Disponíveis
 
